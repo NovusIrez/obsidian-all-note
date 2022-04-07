@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "12ad448d4fbe2173",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd6f1817f314ffe8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CyberLaw.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fee1e511145a9b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "66c44b91300f3e27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d1ba582f29c22c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7631349fb54f179e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0dd60325c8bef9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c27b19724f53c10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92064fa39e121b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CyberLaw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d10f02f5ce112900",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cd6f1817f314ffe8",
+  "lastOpenFiles": [
+    "CyberLaw.md",
+    "BITS 3523 Computer Audit and Risk Management.md",
+    "Bola Baling/W5 bola baling.md",
+    "BITS 2413 Network Security Infrastructure and Design.md",
+    "Bola Baling/W4 bola baling.md",
+    "Random Notes/Future notes.md",
+    "Final Year Project/BITU 3973 Final Year Project I.md",
+    "BITS 3613 Hacking Techniques and Prevention.md",
+    "BLLW 2152 Academic Writing.md",
+    "Random Notes/Academic Writing idea.md"
+  ]
+}
