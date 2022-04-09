@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Random Notes/lab w5 CyberLaw present.md",
+            "file": "Random Notes/Network Note/W5.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Notes/lab w5 CyberLaw present.md",
+                "file": "Random Notes/Network Note/W5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,20 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "cd6f1817f314ffe8",
   "lastOpenFiles": [
+    "Random Notes/Network Note/W5.md",
+    "Random Notes/Network Note/W3.md",
+    "BITS 2413 Network Security Infrastructure and Design.md",
+    "BITS 3613 Hacking Techniques and Prevention.md",
+    "BLLW 2152 Academic Writing.md",
+    "Final Year Project/BITU 3973 Final Year Project I.md",
     "Random Notes/lab w5 CyberLaw present.md",
     "BITS 3523 Computer Audit and Risk Management.md",
     "Bola Baling/W5 bola baling.md",
-    "BITS 2413 Network Security Infrastructure and Design.md",
-    "Bola Baling/W4 bola baling.md",
-    "Random Notes/Future notes.md",
-    "Final Year Project/BITU 3973 Final Year Project I.md",
-    "BITS 3613 Hacking Techniques and Prevention.md",
-    "BLLW 2152 Academic Writing.md",
-    "Random Notes/Academic Writing idea.md"
+    "Bola Baling/W4 bola baling.md"
   ]
 }

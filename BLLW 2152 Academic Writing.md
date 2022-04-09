@@ -136,3 +136,16 @@ asking about the object
 - To **whom** do you give the notebook?
 
 
+
+
+#### Writing Process
+1) Pre-Writing
+
+2) Drafting
+3) Revising
+- take a second look on ideas
+- modify paragraph
+4) Editing/Proofreading
+- take a look on how ideas are expressed
+- change a word or two
+5) Publishing

@@ -23,3 +23,6 @@ mynic whois
 netcraft
 
 Footprinting and Reconnaissance
+
+[nmap Scan Port](https://phoenixnap.com/kb/nmap-scan-open-ports)
+[nmap Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet/)
