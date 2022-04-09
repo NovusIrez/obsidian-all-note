@@ -1,10 +1,10 @@
 from scapy.all import *
-import nmap
+#import nmap
 #ans=input("Enter target IP ? : ")
-ans=input("1- Determine target OS\n 2- Scan range of IP\n 3- Scan range of port\n Enter a number: ")
+ans = int(input("1- Determine target OS\n 2- Scan range of IP\n 3- Scan range of port\n Enter a number: "))
 PH=IP()
 TPH=TCP()
-PH.dst=input("Enter target IP: ")
+PH.dst = input("Enter target IP: ")
 if ans == 1:
     print("don't know")
 elif ans == 2:
