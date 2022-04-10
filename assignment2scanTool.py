@@ -7,13 +7,14 @@ if ans == 1:
     TPH=ICMP()
     PH.dst = input("Enter target IP: ")
 elif ans == 2:
+    TPH=ICMP()
     PH.dst = input("Enter network address : ")
     smask = input("Enter the subnet mask in slash eg. /30\n ")
     PH.dst = PH.dst + smask
 elif ans == 3:
     PH.dst = input("Enter target IP for port scan: ")
-    fp = input("Enter first port: ")
-    lp = input("Enter last port: ")
+    fp = int(input("Enter first port: "))
+    lp = int(input("Enter last port: "))
     PH.dport = (fp,lp)
 reply=sr1(PH/TPH, retry=1, timeout=1)
 print(" ******************************* ")
@@ -22,6 +23,6 @@ if reply==None:
 elif ans == 1:
     print(reply.display()) #default initial TTL value for Linux/Unix is 64, and TTL value for Windows is 128
 elif ans == 2:
-    print(reply.summary())
+    print(reply.summary()) 
 elif ans == 3:
-    print(reply.summary())
+    print(reply.display())
