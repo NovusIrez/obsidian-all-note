@@ -160,4 +160,5 @@ crossAxisAlignment: CrossAxisAlightment.
 - APK file is an archive file, creating a YARA based on multiple parts in APK file "manifest , permissions, dex file" is not optimal/feaseable
 - There is no Yara generator for dex file, analysts just write their own Yara for dex file
 - Relying on Koodous API to convert APK into json report requires internet connection (the source code is not opensource)
+	- Json report can be used to extract manifest file into json report for Yara detection
 - Koodous, biggest Yara static analysis site for apk has put a usage limits on analysis and subscription plans
