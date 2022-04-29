@@ -35,3 +35,24 @@ ISO 27001 (Information Security) Checklist
 
 Information Security Risk Management for ISO27001 / ISO 27002
 Alan Calder
+
+Present minggu depan
+- Org structure
+- Network structure
+- Standard pakai
+
+Risk assessment template
+
+- data used by system
+- users
+
+can help/guide our organization to identify risk
+
+**Risk Management Guide for Information System** - Bende report
+
+
+
+**Final Exam**
+- risk reduce, risk transfer, ... etc kene tahu
+
+

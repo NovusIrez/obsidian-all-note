@@ -12,3 +12,19 @@ Group 6
 
 - next week
 
+Standard
+- Want to specify the source/destination IP
+
+Extended
+- Want to specify port, mac address
+- block spoofing: Outside mac have private address
+
+
+Firewall
+
+Packet filter
+- Layer 3,4
+Application
+- Layer 
+Stateful (Classic firewall)
+- Layer 3,4,5

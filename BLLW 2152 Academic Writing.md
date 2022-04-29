@@ -149,3 +149,57 @@ asking about the object
 - take a look on how ideas are expressed
 - change a word or two
 5) Publishing
+
+#### Argumentative essay
+- establish a stance or position on an issue
+- Position, Evidence, Counterarguments
+
+1) Choose topic
+2) Take position
+3) Gather evidence
+4) Present Argument
+5) -
+
+What should arg essay have?
+- Clear thesis statement in introduction
+- logical reasoning and points which support statement
+- give examples
+
+Outline
+1) Introduction
+	- Background information
+	- Thesis statement
+	- Main points (3)
+2) Body Paragraph 1
+	- Present 1st point and supporting evidence
+3) Body Paragraph 2
+	- Present 1st point
+4) Body Paragraph 3
+	- Present 1st point
+	- it can be useful for emergecy, *however* ....
+5) Conclusion
+	- Restate thesis
+
+Tips on writing a good hook
+1. Ask a question relate to topic
+2. Use related facts
+3. Compare topic to something else
+4. Tell a short story
+5. Use vivid description
+6. A relevant memorable quote
+
+**Essay Topics**
+- https://www.indeed.com/career-advice/career-development/argumentative-essay-topics
+- Should identification became a requirement for accessing internet?
+
+#### Citation
+
+![[Screenshot_216.png]]
+
+**Synthesizing**
+
+- Combining
+- Put together ideas and findings of multiple sources in orer to make an overall point
+- Looking for similarities and differences between your sources, show where the sources overlap
+
+
