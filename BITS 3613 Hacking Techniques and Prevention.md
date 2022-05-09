@@ -46,3 +46,6 @@ create program to buffer overflow
 Search: how to exploit buffer overflow in c / exploiting stack overflow
 
 hydra - bruteforce ftp
+
+msf5 (metasploit exploit)
+meterpreter - advance payload injection
