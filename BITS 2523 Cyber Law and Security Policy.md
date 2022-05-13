@@ -1,1 +1,4 @@
 - [Singapore Cyberlaw](https://www.csa.gov.sg/News/Publications/overview-of-legislations)
+- [Online Privacy in Malaysia vs Singapore - DLA Piper Global Data Protection Laws of the World](https://www.dlapiperdataprotection.com/index.html?t=online-privacy&c=MY&c2=SG)
+- [Jabatan Perlindungan Data Peribadi – Jabatan Perlindungan Data Peribadi](https://www.pdp.gov.my/jpdpv2/)
+- 

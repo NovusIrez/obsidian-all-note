@@ -128,6 +128,7 @@ Other method: Send APK and YARA to PC
 **Sending File to Virus Total**
 - https://github.com/BrunoPien/virustotal_scan_flutter
 - https://pub.dev/packages/galileo_file_security
+- https://pub.dev/packages/requests
 
 **Koodous**
 - http://pavelsimecek.cz/custom-matching-of-koodous-yara-rules/
@@ -144,7 +145,7 @@ Other method: Send APK and YARA to PC
 - [x] fix androguard fetch json report
 - [ ] match apk file with community yara
 - [ ] create yara from hybrid-analysis
-- [ ] https://www.researchgate.net/publication/354701299_YARA-Signator_Automated_Generation_of_Code-based_YARA_Rules
+- [x] https://www.researchgate.net/publication/354701299_YARA-Signator_Automated_Generation_of_Code-based_YARA_Rules
 - [x] [Write Yara Rule part 1](https://www.nextron-systems.com/2015/02/16/write-simple-sound-yara-rules/)
 - [x] string.xml on yaragen
 - [ ] read Koodous docs, try upload apk
@@ -168,3 +169,11 @@ Other method: Send APK and YARA to PC
 - Relying on Koodous API to convert APK into json report requires internet connection (the source code is not opensource)
 	- Json report can be used to extract manifest file into json report for Yara detection
 - Koodous, biggest Yara static analysis site for apk has put a usage limits on analysis and subscription plans
+
+
+#### Note shiet
+- https://api.flutter.dev/flutter/dart-io/HttpClient-class.html
+- https://pub.dev/packages/requests
+- send file with flutter https
+- https://stackoverflow.com/questions/66339121/cant-post-from-flutter-web-with-httpclient
+- https://developers.virustotal.com/reference/files-scan

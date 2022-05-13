@@ -191,6 +191,8 @@ Tips on writing a good hook
 **Essay Topics**
 - https://www.indeed.com/career-advice/career-development/argumentative-essay-topics
 - Should identification became a requirement for accessing internet?
+- Is physical book is still necessary?
+- Should social media platforms be banned from collecting their users' data? 
 
 #### Citation
 
@@ -201,5 +203,7 @@ Tips on writing a good hook
 - Combining
 - Put together ideas and findings of multiple sources in orer to make an overall point
 - Looking for similarities and differences between your sources, show where the sources overlap
+
+
 
 
