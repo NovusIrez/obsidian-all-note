@@ -177,3 +177,11 @@ Other method: Send APK and YARA to PC
 - send file with flutter https
 - https://stackoverflow.com/questions/66339121/cant-post-from-flutter-web-with-httpclient
 - https://developers.virustotal.com/reference/files-scan
+- https://stackoverflow.com/questions/49125191/how-to-upload-images-and-file-to-a-server-in-flutter
+- https://github.com/flutterchina/dio
+- [Baca](https://github.com/miguelpruivo/flutter_file_picker/wiki/FAQ)
+- https://stackoverflow.com/questions/67008450/want-to-fetch-bytes-of-selected-file-from-device
+- get sha256 file
+- [dart - Flutter : Dio HTTP Handling error exception 404 - Stack Overflow](https://stackoverflow.com/questions/57474139/flutter-dio-http-handling-error-exception-404)
+- [Calculate SHA256 checksum in Dart - Stack Overflow](https://stackoverflow.com/questions/20787713/calculate-sha256-checksum-in-dart)
+- JsonMap to array
