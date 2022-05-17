@@ -14,6 +14,7 @@ Maltego
 - meterpreter - advance payload injection
 - hydra - bruteforce ftp
 - sqlmap
+- [hashID | hash-identifier](http://psypanda.github.io/hashID/)
 
 Password for windows -> NLTM Format
 -> Use bruteforce attack (encrypted library of password)
@@ -43,4 +44,5 @@ Layer 4 - Transport protocol:
 - create program to buffer overflow
 - [Network Protocol Cheat Sheet](https://www.exploit-db.com/docs/48120)
 - Search: how to exploit buffer overflow in c / exploiting stack overflow
+- Search: How to read network flag bits
 

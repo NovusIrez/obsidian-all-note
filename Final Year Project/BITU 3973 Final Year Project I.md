@@ -1,6 +1,9 @@
 [[#YARA]]
 [[#Flutter]]
+[[#API]]
 [[#Checklist]]
+[[#Issue]]
+[[#Note shiet]]
 
 ---
 fadzilah.othman@utem.edu.my
@@ -122,13 +125,12 @@ crossAxisAlignment: CrossAxisAlightment.
 - [VirusTotal Yara Doc](https://support.virustotal.com/hc/en-us/articles/115002178945-YARA)
 - [API Upload File](https://developers.virustotal.com/reference/files-scan)
 - [VT Hunting and Live Hunt](https://support.virustotal.com/hc/en-us/articles/360000363717-What-s-VT-Hunting-)
+- [Pokemon Go Scan](https://www.virustotal.com/gui/file/15db22fd7d961f4d4bd96052024d353b3ff4bd135835d2644d94d74c925af3c4/details)
 
 Other method: Send APK and YARA to PC
 
 **Sending File to Virus Total**
-- https://github.com/BrunoPien/virustotal_scan_flutter
-- https://pub.dev/packages/galileo_file_security
-- https://pub.dev/packages/requests
+- https://github.com/flutterchina/dio
 
 **Koodous**
 - http://pavelsimecek.cz/custom-matching-of-koodous-yara-rules/
@@ -149,17 +151,18 @@ Other method: Send APK and YARA to PC
 - [x] [Write Yara Rule part 1](https://www.nextron-systems.com/2015/02/16/write-simple-sound-yara-rules/)
 - [x] string.xml on yaragen
 - [ ] read Koodous docs, try upload apk
+- [ ] [Koodous/androguard-yara: Module to use Androguard with Yara](https://github.com/Koodous/androguard-yara)
 - **Flutter**
-- [ ] How to create new page
+- [x] How to create new page
 - [ ] how to create loading screen
 - **Connection to PC**
 - [ ] How to upload to PC
 - [ ] how to run script on PC
 - [ ] how to get result
 - **Connection to VirusTotal**
-- [ ] How to upload to API
-- [ ] how to run scan
-- [ ] how to get result
+- [x] How to upload to API
+- [x] how to run scan
+- [x] how to get result
 
 
 #### Issue
