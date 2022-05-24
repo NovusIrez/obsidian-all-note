@@ -188,3 +188,18 @@ Other method: Send APK and YARA to PC
 - [dart - Flutter : Dio HTTP Handling error exception 404 - Stack Overflow](https://stackoverflow.com/questions/57474139/flutter-dio-http-handling-error-exception-404)
 - [Calculate SHA256 checksum in Dart - Stack Overflow](https://stackoverflow.com/questions/20787713/calculate-sha256-checksum-in-dart)
 - JsonMap to array
+- https://flutter.github.io/samples/jsonexample.html
+- https://api.flutter.dev/flutter/widgets/Table-class.html
+
+
+##### Malware to Show
+- https://github.com/sk3ptre
+- https://support.virustotal.com/hc/en-us/articles/360015658497-Crowdsourced-Yara-Rules
+- Contained in Collection
+- Detection Type
+- [Anubis Dropper with motion detection capability](https://www.virustotal.com/gui/file/64ebe9b975de022b888f17db429af3a93d3db95db5af274e3eefd3ca7f24e350/detection)
+- [Exodus](https://www.virustotal.com/gui/file/0f5f1409b1ebbee4aa837d20479732e11399d37f05b47b5359dc53a4001314e5/detection)
+- [Masquerading malware](https://www.virustotal.com/gui/file/03122ade6371753933299d563bf26bcce3e54c1b467465bbf7a49dc9a6c13777)
+- [FluBot](https://www.virustotal.com/gui/file/30937927e8891f8c0fd2c7b6be5fbc5a05011c34a7375e91aad384b82b9e6a67)
+- [FedEx apk](https://www.virustotal.com/gui/file/d22c5db75f6260823e83057721a2d3e90a9821bdbc81ec52683e8cce49d9a49d)
+- [smishingCampaign](https://www.virustotal.com/gui/file/e847611c78a20de6c0ea5454921bd9318a6b796275bebb78d7f7dcbb43571dd1/detection)

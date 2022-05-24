@@ -2,7 +2,7 @@
 Does malaysia in need of privacy law?
 
 ##### The Personal Data Protection Act 2010
-he PDPA basically provides provisions that regulates how personal data can be collected, processed and used when it comes to dealing with personal data of their employees, suppliers, and customers.  As such, the PDPA regulates data privacy and data protection.
+The PDPA basically provides provisions that regulates how personal data can be collected, processed and used when it comes to dealing with personal data of their employees, suppliers, and customers.  As such, the PDPA regulates data privacy and data protection.
 
 ##### Malaysia has no specific Privacy Law
 Unlike other jurisdictions, Malaysia has no specific law such as a Privacy Act to protect personal privacy, except for the Personal Data Protection Act 2010 (“PDPA”), which deals with personal data and focuses on regulating the processing of ‘personal data’ in commercial transactions

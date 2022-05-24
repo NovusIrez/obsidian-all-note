@@ -46,3 +46,4 @@ Layer 4 - Transport protocol:
 - Search: how to exploit buffer overflow in c / exploiting stack overflow
 - Search: How to read network flag bits
 
+![[metasploit cheat sheet.png]]

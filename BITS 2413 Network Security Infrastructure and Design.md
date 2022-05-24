@@ -29,3 +29,14 @@ Application
 - Layer 
 Stateful (Classic firewall)
 - Layer 3,4,5
+
+
+Router passwords
+username: user01
+password: user01pass
+username: admin
+password: cisco12345
+console: ciscoconpass
+secret: cisco12345
+aux: ciscoauxpass
+vty: ciscovtypass

@@ -48,6 +48,8 @@ Risk assessment template
 
 can help/guide our organization to identify risk
 
+Scope of the audit
+
 **Risk Management Guide for Information System** - Bende report
 
 
