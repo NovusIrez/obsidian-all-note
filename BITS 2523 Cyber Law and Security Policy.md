@@ -6,4 +6,7 @@
 PDPA
 - [7 Principles PDPA](https://globaldatahub.taylorwessing.com/article/data-protection-in-malaysia)
 - https://github.com/NovusIrez/obsidian-all-note/blob/main/Subjects%20Note/Cyberlaw%20Privacy%20Law%20present.md
-- 
+
+
+
+but the clarity... still can be improved

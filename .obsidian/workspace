@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BITS 2523 Cyber Law and Security Policy.md",
+            "file": "Final Year Project/BITU 3973 Final Year Project I.md",
             "mode": "preview",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318
   },
   "right": {
     "id": "d0dd60325c8bef9c",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BITS 2523 Cyber Law and Security Policy.md",
+                "file": "Final Year Project/BITU 3973 Final Year Project I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "cd6f1817f314ffe8",
   "lastOpenFiles": [
+    "Final Year Project/BITU 3973 Final Year Project I.md",
+    "BITS 3613 Hacking Techniques and Prevention.md",
+    "Subjects Note/CDFFR note.md",
+    "BITS 2413 Network Security Infrastructure and Design.md",
+    "Subjects Note/English Writing.md",
+    "BLLW 2152 Academic Writing.md",
     "BITS 2523 Cyber Law and Security Policy.md",
     "Subjects Note/Cyberlaw Privacy Law present.md",
-    "Final Year Project/BITU 3973 Final Year Project I.md",
-    "BITS 2413 Network Security Infrastructure and Design.md",
-    "BITS 3613 Hacking Techniques and Prevention.md",
-    "BLLW 2152 Academic Writing.md",
     "Subjects Note/Academic Writing idea.md",
-    "BITS 3523 Computer Audit and Risk Management.md",
-    "Subjects Note/lab w5 CyberLaw present.md",
-    "Bola Baling/W5 bola baling.md"
+    "BITS 3523 Computer Audit and Risk Management.md"
   ]
 }
