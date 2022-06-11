@@ -175,7 +175,7 @@ Other method: Send APK and YARA to PC
 - Koodous, biggest Yara static analysis site for apk has put a usage limits on analysis and subscription plans
 
 
-#### Note shiet
+#### Note
 - https://api.flutter.dev/flutter/dart-io/HttpClient-class.html
 - https://pub.dev/packages/requests
 - send file with flutter https
@@ -199,9 +199,17 @@ Other method: Send APK and YARA to PC
 - Contained in Collection
 - Detection Type
 
+64ebe9b975de022b888f17db429af3a93d3db95db5af274e3eefd3ca7f24e350
 - [Anubis Dropper with motion detection capability](https://www.virustotal.com/gui/file/64ebe9b975de022b888f17db429af3a93d3db95db5af274e3eefd3ca7f24e350/detection)
+
+0f5f1409b1ebbee4aa837d20479732e11399d37f05b47b5359dc53a4001314e5
 - [Exodus](https://www.virustotal.com/gui/file/0f5f1409b1ebbee4aa837d20479732e11399d37f05b47b5359dc53a4001314e5/detection)
 - [Masquerading malware](https://www.virustotal.com/gui/file/03122ade6371753933299d563bf26bcce3e54c1b467465bbf7a49dc9a6c13777)
 - [FluBot](https://www.virustotal.com/gui/file/30937927e8891f8c0fd2c7b6be5fbc5a05011c34a7375e91aad384b82b9e6a67)
 - [August banking Trojan](https://www.virustotal.com/gui/file/fe2e8b115b3ffc2f3ab668c08c67b21afa6761426cef1c6a99f6cb9074d8076f/detection)
-- 
+
+For testing
+- [download AT&T Security Services 1.0.5](https://www.apkmirror.com/apk/att-services-inc/att-security-services/att-security-services-1-0-5-release/att-security-services-1-0-5-android-apk-download/download/)
+
+
+[Get file report API](https://developers.virustotal.com/reference/file-info)

@@ -40,3 +40,9 @@ console: ciscoconpass
 secret: cisco12345
 aux: ciscoauxpass
 vty: ciscovtypass
+
+
+Final
+- ACL Focus
+- Understand topics + search internet
+- Configuration command
