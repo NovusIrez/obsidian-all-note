@@ -1,4 +1,8 @@
 {
   "baseFontSize": 16,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "textFontFamily": "inter",
+  "interfaceFontFamily": "inter",
+  "enabledCssSnippets": []
 }

@@ -3,7 +3,7 @@
 [[#API]]
 [[#Checklist]]
 [[#Issue]]
-[[#Note shiet]]
+[[#Note]]
 
 ---
 fadzilah.othman@utem.edu.my
@@ -191,6 +191,7 @@ Other method: Send APK and YARA to PC
 - JsonMap to array
 - https://flutter.github.io/samples/jsonexample.html
 - https://api.flutter.dev/flutter/widgets/Table-class.html
+- https://docs.koodous.com/quotas.html
 
 
 ##### Malware to Show

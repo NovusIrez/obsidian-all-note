@@ -39,8 +39,10 @@ Layer 4 - Transport protocol:
 - UDP
 
 > nmap -Y4 -A -v 192.168.202.138
+> nmap -A -T4 -p- 10.10.10.4
+> rustscan -a [ip] -p [port]
 
-nmap -A -T4 -p- 10.10.10.4
+
 
 ##### Research
 - create program to buffer overflow
