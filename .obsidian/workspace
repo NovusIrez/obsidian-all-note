@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Subject Notes/BITS 2523 Cyber Law and Security Policy.md",
+            "file": "Random Notes/How to setup Tango real quick.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subject Notes/BITS 2523 Cyber Law and Security Policy.md",
+                "file": "Random Notes/How to setup Tango real quick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "cd6f1817f314ffe8",
   "lastOpenFiles": [
-    "Subject Notes/BITS 2523 Cyber Law and Security Policy.md",
-    "Subject Notes/BITS 3523 Computer Audit and Risk Management.md",
-    "Subject random note/Cyberlaw Privacy Law present.md",
-    "Subject Notes/BITS 3613 Hacking Techniques and Prevention.md",
-    "Subject Notes/BITS 2413 Network Security Infrastructure and Design.md",
-    "Subject Notes/BLLW 2152 Academic Writing.md",
-    "Subject random note/Academic writing essay idea.md",
-    "Subject Notes/BITU 3973 Final Year Project I.md",
-    "Subject random note/CDFFR note.md",
-    "Subject random note/FYP Logbook.md"
+    "Random Notes/How to setup Tango real quick.md",
+    "Random Notes/How to install alternatives Python Ubuntu.md",
+    "Y3S1/BITS 2523 Cyber Law and Security Policy.md",
+    "Y3S1/BITS 2413 Network Security Infrastructure and Design.md",
+    "Random Notes/Seminar Future Note.md",
+    "Random Notes/Future notes.md",
+    "Y3S1/BITU 3973 Final Year Project I.md",
+    "Y3S1/BITS 3613 Hacking Techniques and Prevention.md",
+    "Y3S1/BITS 3523 Computer Audit and Risk Management.md",
+    "Y3S1/Subject random note/Cyberlaw Privacy Law present.md"
   ]
 }
