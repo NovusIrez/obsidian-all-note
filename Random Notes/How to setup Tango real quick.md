@@ -37,10 +37,10 @@
 - Just click Play
 
 ##### Start Multiplayer mode (for PvP)
-- Click generate random code and then click Fight!
+1. Click generate random code and then click Fight!
 
 ![Random code](https://media.discordapp.net/attachments/920942335154589756/995857574903676968/unknown.png)
 
-**Optional** : Go to discord and use Invite feature to join with a single click
+2. Give the code to another player **or (preferably)** go to discord and use Invite feature to join with a single click
 
 ![Discord inte](https://media.discordapp.net/attachments/920942335154589756/995857750028460152/unknown.png)
