@@ -8,7 +8,7 @@
 ---
 fadzilah.othman@utem.edu.my
 
-#### YARA
+### YARA
 
 - [My Repo](https://github.com/NovusIrez/Yara-APK-Demo)
 - [YARA Docs](https://yara.readthedocs.io/en/latest/)
@@ -60,7 +60,7 @@ Extract ASCII
 **Note**
 - Storing YARA Rule on github
 
-#### Flutter
+### Flutter
 
 - [Flutter doc](https://docs.flutter.dev/#new-to-flutter)
 - [Expandable Floating action button](https://docs.flutter.dev/cookbook/effects/expandable-fab)
@@ -118,7 +118,7 @@ crossAxisAlignment: CrossAxisAlightment.
 ```
 
 
-#### API
+### API
  
  **VirusTotal**
 - [API](https://support.virustotal.com/hc/en-us/articles/115002100149-API)
@@ -139,7 +139,7 @@ Other method: Send APK and YARA to PC
 
 
 
-#### Checklist
+### Checklist
 
 - **Yara**
 - [x] how to use yarGen to scan apk (extract apk then scan files?)
@@ -166,7 +166,7 @@ Other method: Send APK and YARA to PC
 - [x] how to get result
 
 
-#### Issue
+### Issue
 
 - APK file is an archive file, creating a YARA based on multiple parts in APK file "manifest , permissions, dex file" is not optimal/feaseable
 - There is no Yara generator for dex file, analysts just write their own Yara for dex file
@@ -175,7 +175,7 @@ Other method: Send APK and YARA to PC
 - Koodous, biggest Yara static analysis site for apk has put a usage limits on analysis and subscription plans
 
 
-#### Note
+### Note
 - https://api.flutter.dev/flutter/dart-io/HttpClient-class.html
 - https://pub.dev/packages/requests
 - send file with flutter https
@@ -194,7 +194,7 @@ Other method: Send APK and YARA to PC
 - https://docs.koodous.com/quotas.html
 
 
-##### Malware to Show
+#### Malware to Show
 - https://github.com/sk3ptre
 - https://support.virustotal.com/hc/en-us/articles/360015658497-Crowdsourced-Yara-Rules
 - Contained in Collection
