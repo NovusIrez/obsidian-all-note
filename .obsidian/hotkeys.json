@@ -1,1 +1,11 @@
-{}
+{
+  "tag-pane:open": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ]
+}
