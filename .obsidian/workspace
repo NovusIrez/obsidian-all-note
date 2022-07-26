@@ -7,11 +7,9 @@
         "id": "4b37ecc746765989",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Random Notes/How to setup Tango real quick.md",
-            "mode": "preview",
-            "source": false
+            "file": "Y3S1/Random Notes Board.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Notes/How to setup Tango real quick.md",
+                "file": "Y3S1/Random Notes Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Notes/How to setup Tango real quick.md"
+                "file": "Y3S1/Random Notes Board.md"
               }
             }
           }
@@ -110,15 +108,15 @@
   },
   "active": "4b37ecc746765989",
   "lastOpenFiles": [
-    "Random Notes/Seminar Future Note.md",
+    "Y3S1/Subject random note/English Writing.md",
     "Y3S1/Random Notes Board.md",
+    "Y3S1/Subject random note/Academic Writing idea.md",
     "Y3S1/BITU 3973 Final Year Project I.md",
-    "Y3S1/Subject random note/Academic writing essay idea.md",
-    "Y3S1/Subject random note/FYP Logbook.md",
-    "Y3S1/Subject random note/Cyberlaw Privacy Law present.md",
-    "Y3S1/BLLW 2152 Academic Writing.md",
     "Y3S1/BITS 3613 Hacking Techniques and Prevention.md",
-    "Y3S1/BITS 2523 Cyber Law and Security Policy.md",
-    "Y3S1/BITS 2413 Network Security Infrastructure and Design.md"
+    "Y3S1/BITS 2413 Network Security Infrastructure and Design.md",
+    "Y3S1/BLLW 2152 Academic Writing.md",
+    "Y3S1/Subject random note/Academic writing essay idea.md",
+    "Random Notes/How to setup Tango real quick.md",
+    "Random Notes/Seminar Future Note.md"
   ]
 }
